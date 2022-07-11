@@ -1,0 +1,11 @@
+setuptools
+
+asyncio
+aiohttp
+requests
+amino.py
+amino.fix
+samino
+pyfiglet
+deep_translator
+zerochan
